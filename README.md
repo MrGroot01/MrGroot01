@@ -12,17 +12,28 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+---
 
 ## 🚀 Projects
 
-🔹 Ecommerce Website  
+🛒 **Ecommerce Website**  
+Live Demo:  
 https://ecomerce-website-gold.vercel.app/
 
-🛒 Ecommerce Website  
-🌦 Weather App  
-❌⭕ Tic Tac Toe Game  
-💻 Billing System  
-🌐 Portfolio Website  
+🌦 **Weather App**  
+Real-time weather information using API.
+
+❌⭕ **Tic Tac Toe Game**  
+Interactive browser game using JavaScript.
+
+💻 **Billing System**  
+Retail billing software built using Python and Tkinter.
+
+🌐 **Portfolio Website**  
+Personal portfolio showcasing projects and skills.
+
 ---
 
 ## 📊 GitHub Stats
@@ -38,6 +49,7 @@ https://ecomerce-website-gold.vercel.app/
 ---
 
 ## 🛠 Languages Used
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight)
 
 ---
