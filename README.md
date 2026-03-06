@@ -7,14 +7,6 @@
 
 ## 🧠 Skills
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- Django
-- MySQL
-
-----
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
@@ -26,14 +18,11 @@
 🔹 Ecommerce Website  
 https://ecomerce-website-gold.vercel.app/
 
-🔹 Weather App  
-
-🔹 Tic Tac Toe Game  
-
-🔹 Billing System (Python + Tkinter)
-
-🔹 Portfolio Website  
-
+🛒 Ecommerce Website  
+🌦 Weather App  
+❌⭕ Tic Tac Toe Game  
+💻 Billing System  
+🌐 Portfolio Website  
 ---
 
 ## 📊 GitHub Stats
@@ -49,7 +38,6 @@ https://ecomerce-website-gold.vercel.app/
 ---
 
 ## 🛠 Languages Used
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight)
 
 ---
