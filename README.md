@@ -13,6 +13,8 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![ReactJs](https://img.shields.io/badge/ReactJs-blue?logo=reactjs)
+
 
 ---
 
