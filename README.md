@@ -57,6 +57,8 @@ Personal portfolio showcasing projects and skills.
 ---
 
 ## 📫 Connect With Me
+kirand09876@gmail.com 
+
 
 🌐 Portfolio  
 https://ecomerce-website-gold.vercel.app/
