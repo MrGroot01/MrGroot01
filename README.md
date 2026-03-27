@@ -88,7 +88,7 @@ Personal portfolio showcasing projects and skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight" />
 
 <br><br>
 
