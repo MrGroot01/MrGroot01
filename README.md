@@ -1,68 +1,103 @@
-      # Hi 👋 I'm Kiran
+# Hi 👋, I'm Kiran
 
-💻 Computer Science Student from Bangalore  
-🚀 Passionate about Web Development and Software Projects  
+<p align="center">
+🚀 Full Stack Developer | Python • Django • React <br>
+💡 Passionate about building real-world web applications <br>
+📍 Bangalore, India
+</p>
 
 ---
 
 ## 🧠 Skills
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![ReactJs](https://img.shields.io/badge/ReactJs-blue?logo=reactjs)
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,react" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-🛒 **Ecommerce Website**  
-Live Demo:  
-https://ecomerce-website-gold.vercel.app/
+### 🛒 Ecommerce Website
 
-🌦 **Weather App**  
-Real-time weather information using API.
+🔗 Live Demo: https://ecomerce-website-gold.vercel.app/
+✨ Features: Authentication, Add to Cart, Responsive UI
 
-❌⭕ **Tic Tac Toe Game**  
-Interactive browser game using JavaScript.
+---
 
-💻 **Billing System**  
-Retail billing software built using Python and Tkinter.
+### 🌦 Weather App
 
-🌐 **Portfolio Website**  
-Personal portfolio showcasing projects and skills.
+✨ Real-time weather data using API
+🌐 Fetches live weather updates
+
+---
+
+### ❌⭕ Tic Tac Toe Game
+
+🎮 Interactive browser-based game
+⚡ Built using JavaScript
+
+---
+
+### 💻 Billing System
+
+🧾 Retail billing software
+🛠 Built using Python & Tkinter
+
+---
+
+### 🌐 Portfolio Website
+
+💼 Showcases my projects and skills
+🎨 Clean and modern UI
+
+---
+
+## 🌟 Featured Project
+
+### 🛒 Full Stack Ecommerce App
+
+✔ User Authentication
+✔ Cart System
+✔ Modern UI
+✔ Deployed Online
+
+👉 Live: https://ecomerce-website-gold.vercel.app/
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrGroot01&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=MrGroot01&theme=tokyonight" />
+</p>
 
 ---
 
-## 🛠 Languages Used
+## 📚 Currently Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight)
+* React.js (Advanced)
+* Django REST Framework
+* DevOps Basics
 
 ---
 
 ## 📫 Connect With Me
-kirand09876@gmail.com 
 
+📧 Email: [kirand09876@gmail.com](mailto:kirand09876@gmail.com)
 
-🌐 Portfolio  
+🌐 Portfolio:
 https://ecomerce-website-gold.vercel.app/
 
 ---
 
-⭐ Keep learning, building, and improving every day.
+⭐ *Keep learning, building, and improving every day.*
