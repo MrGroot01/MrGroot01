@@ -50,7 +50,7 @@ I enjoy building practical, user-facing applications — from eCommerce platform
 
 ### 🛒 E-Commerce Website
 A full-featured online store with product listings, cart system, and responsive UI.  
-[![Live Demo](https://ecomerce-website-gold.vercel.app/)](https://ecommerce-website-gold.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=flat-square&logo=vercel)](https://ecommerce-website-gold.vercel.app/)
 
 ---
 
