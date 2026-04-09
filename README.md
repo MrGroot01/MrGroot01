@@ -59,12 +59,6 @@ A full-featured online store with product listings, cart system, and responsive 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge\&logo=vercel)](https://ecomerce-website-gold.vercel.app/)
 ## 🚀 Projects
 
-### 🛒 BookMyShow Website
-
-A full-featured online store with product listings, cart system, and responsive UI.
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge\&logo=vercel)](https://book-my-show-gf7w.vercel.app//)
----
-
 ### 🌦 Weather App
 
 A real-time weather application using API.
