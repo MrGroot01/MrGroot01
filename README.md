@@ -1,16 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Kiran D T
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kiran%20D%20T&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### 💻 Computer Science Student | 🚀 Full-Stack Developer
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Django+%7C+Python;Building+Real+World+Projects&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C8CF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Django+%7C+Python+Engineer;Building+Real-World+Products;Open+to+Internships+%26+Collabs" alt="Typing SVG" />
 
-<br>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ecomerce-website-gold.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kirand09876@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MrGroot01-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MrGroot01)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logoColor=white)](https://ecomerce-website-gold.vercel.app/)
+[![BookMyShow Clone](https://img.shields.io/badge/🎬_BookMyShow-Live-E50914?style=for-the-badge&logoColor=white)](https://book-my-show-gf7w.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logoColor=white)](mailto:kirand09876@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MrGroot01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGroot01)
 
 </div>
 
@@ -18,68 +19,90 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student from Bangalore with a strong interest in web development and software engineering.
-I enjoy building practical, user-facing applications and continuously improving my technical skills.
+I'm a Computer Science student from Bangalore with a passion for building practical, user-facing web applications. I love turning ideas into real products — from e-commerce platforms to event booking systems.
 
-* 🎓 Pursuing a degree in Computer Science
-* 📍 Based in Bangalore, India
-* 💡 Currently building projects with React, Django, and Python
-* 🚀 Focused on clean, scalable, and maintainable code
+- 🎓 Pursuing a degree in **Computer Science**
+- 📍 Based in **Bangalore, India**
+- 💡 Currently building projects with **React, Django & Python**
+- 🚀 Focused on **clean, scalable, and maintainable code**
+- 🤝 Open to **collaborations, internships & exciting opportunities**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-
-### 🗄 Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website
+> A full-featured online store with product listings, cart system, user authentication, and a fully responsive UI.
 
-A full-featured online store with product listings, cart system, and responsive UI.
+**Tech:** React · Django · MySQL · Vercel · Render
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green?style=for-the-badge\&logo=vercel)](https://ecomerce-website-gold.vercel.app/)
-## 🚀 Projects
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit-6C63FF?style=for-the-badge)](https://ecomerce-website-gold.vercel.app/)
+[![API](https://img.shields.io/badge/🔌_REST_API-Render-46E3B7?style=for-the-badge)](https://ecommerceapidata.onrender.com/api/)
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01/Ecommerce-website)
 
-### 🌦 Weather App
+---
 
-A real-time weather application using API.
+### 🎬 BookMyShow Clone
+> A movie and event booking platform inspired by BookMyShow — browse shows, select seats, and book tickets.
+
+**Tech:** React · Django · Python · Vercel
+
+[![Live Demo](https://img.shields.io/badge/🎬_Live_Demo-Visit-E50914?style=for-the-badge)](https://book-my-show-gf7w.vercel.app/)
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01/BookMyShow)
+
+---
+
+### 🐾 PetCare Web Service
+> A pet care service platform with service listings and booking capability.
+
+**Tech:** Python · Django · Render
+
+[![Live Demo](https://img.shields.io/badge/🐾_Live_Demo-Visit-3CB371?style=for-the-badge)](https://petcare-byc5.onrender.com/app/)
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01)
+
+---
+
+### 🌦️ Weather App
+> Real-time weather application that fetches live data using a public weather API.
+
+**Tech:** JavaScript · HTML · CSS · OpenWeather API
+
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01/weather)
 
 ---
 
 ### 🎮 Tic Tac Toe Game
+> Interactive browser-based game built with vanilla HTML, CSS, and JavaScript.
 
-Interactive browser-based game built with HTML, CSS, and JavaScript.
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01/tic-tac-toe-game)
 
 ---
 
 ### 🧾 Billing System
+> Retail billing desktop application built with Python and Tkinter for small businesses.
 
-Retail billing application developed using Python (Tkinter).
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and skills.
+[![Repo](https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MrGroot01/Billing_sytem)
 
 ---
 
@@ -87,15 +110,17 @@ Personal portfolio showcasing projects and skills.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=MrGroot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 
-<br><br>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MrGroot01&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGroot01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrGroot01&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -103,15 +128,22 @@ Personal portfolio showcasing projects and skills.
 
 ## 🤝 Connect With Me
 
-I'm open to collaborations, internships, and exciting opportunities!
+<div align="center">
 
-* 📧 [kirand09876@gmail.com](mailto:kirand09876@gmail.com)
-* 🌐 https://ecomerce-website-gold.vercel.app/
+I'm always open to collaborations, internships, and exciting opportunities!
+
+[![Email](https://img.shields.io/badge/kirand09876@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirand09876@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ecomerce-website-gold.vercel.app/)
+[![GitHub](https://img.shields.io/badge/MrGroot01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGroot01)
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ <i>"The best way to learn is to build."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+✨ *"The best way to learn is to build."*
 
 </div>
